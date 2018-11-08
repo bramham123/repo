@@ -1,2 +1,2 @@
 # repo
-test repo for git command repositaries.
+test repo for git command repositaries file.
